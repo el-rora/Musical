@@ -186,7 +186,7 @@ filter: drop-shadow(5px 5px 10px #dcca04);
     place-items: center;
     isolation: isolate;
     background-color: black;
-     background: url("/assets/hero-room.jpg") center / cover no-repeat;
+     background: url("hero-room.jpg") center / cover no-repeat;
      background-attachment: fixed;
 }
 .hero-overlay{
